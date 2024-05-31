@@ -1,1 +1,2 @@
 # Finlatics
+I have done a project on data science where I have analysed a real world youtube statistics dataset by exploring various metrics such as subscriber counts, video views, upload frequencies, earnings, and geographical distribution among top content creators. Through my analysis, I aim to answer key questions about what drives success on YouTube, how different factors correlate with audience engagement and revenue, and what trends are emerging in this vibrant ecosystem.
